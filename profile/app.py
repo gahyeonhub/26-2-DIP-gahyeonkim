@@ -8,7 +8,7 @@ from PIL import Image
 import streamlit as st
 
 st.set_page_config(page_title="HW05 - Image Segmentation", layout="wide")
-st.title("HW05 - 이미지 이진화 및 연결 성분 분석")
+st.title("Object Counting")
 
 # ---------------------------------------------------------------
 # 1. 이미지 불러오기
